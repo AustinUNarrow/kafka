@@ -1,2 +1,2 @@
 # kafka
-Reposiotry for kafka learnings
+Repository for kafka learnings
